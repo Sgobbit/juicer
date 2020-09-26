@@ -1,2 +1,2 @@
 # juicer
-Juicer: javascript user interface component elements renderer 
+Juicer: javascript user interface component elements renderer
